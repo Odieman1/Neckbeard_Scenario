@@ -1,0 +1,71 @@
+[
+  {
+    "type": "mapgen",
+    "method": "json",
+    "om_terrain": [ "basement_neckbeard" ],
+    "weight": 250,
+    "object": {
+      "fill_ter": "t_rock",
+      "rows": [
+        "                        ",
+        "                        ",
+        "                        ",
+        "                        ",
+        "                        ",
+        "                        ",
+        "                        ",
+        "      |||||||||         ",
+        "      |TMT___B|         ",
+        "      |TS____B|         ",
+        "      |T_____?|         ",
+        "      |_______|         ",
+        "      |FC____R|         ",
+        "      |||+|++||         ",
+        "      |___|__|          ",
+        "      |UUU|<<|          ",
+        "      ||||||||          ",
+        "                        ",
+        "                        ",
+        "                        ",
+        "                        ",
+        "                        ",
+        "                        ",
+        "                        "
+      ],
+      "terrain": {
+        "|": "t_wall",
+        "<": "t_stairs_up",
+        "+": "t_door_c",
+        "_": "t_floor",
+        "T": "t_floor",
+        "M": "t_console_broken",
+        "B": "t_floor",
+        "R": "t_floor",
+        "U": "t_floor",
+        "S": "t_floor",
+		"C": "t_floor",
+		"F": "t_floor",
+		"?": "t_floor"
+      },
+      "furniture": {
+        "T": "f_table",
+        "R": "f_rack",
+        "S": "f_chair",
+        "C": "f_counter",
+        "U": "f_utility_shelf",
+        "F": "f_fridge",
+        "?": "f_sofa",
+		"B": "f_bed"
+      },
+      "items": {
+        "U": [ { "item": "neckbeard_snacks", "chance": 65, "repeat": [ 1, 4 ] } ],
+        "R": [ { "item": "a_television", "chance": 100 } ],
+		"B": [ { "item": "bed", "chance": 75 } ],
+        "?": [ { "item": "neckbeard_magazine", "chance": 50 } ],
+        "F": [ { "item": "neckbeard_snacks_fridge", "chance": 95, "repeat": [ 3, 8 ] } ],
+		"_": [ { "item": "neckbeard_garbage", "chance": 25 } ],
+        "T": [ { "item": "neckbeard_garbage", "chance": 75, "repeat": [ 1, 2 ] } ]
+      }
+    }
+  }
+]

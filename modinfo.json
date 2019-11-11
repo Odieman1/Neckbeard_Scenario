@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "neckbeard_start",
+    "name": "Neckbeard Scenario",
+    "authors": [ "Odieman" ],
+    "description": "Tired of playing as some sort of high-tech ninja?  Want to play a more realistic, true to life scenario?  Look no further.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "type": "profession",
+    "ident": "neckbeard",
+    "name": { "male": "Neckbeard", "female": "Legbeard" },
+    "description": "Hundreds of internet arguments won, and thousands of hours of anime watched.  Too bad that won't help you now.",
+    "points": -1,
+    "skills": [ { "level": 1, "name": "computer" } ],
+    "traits": [ "XXXL", "SMELLY", "UGLY", "FACIAL_HAIR_NECKBEARD" ],
+    "flags": [ "SCEN_ONLY" ],
+    "items": {
+      "both": { "items": [ "socks" ] },
+      "male": {
+        "items": [
+          "briefs",
+          "linuxtshirt",
+          "leathersandals",
+          "fedora",
+          "gloves_fingerless",
+          "shorts_cargo",
+          "trenchcoat_leather",
+          "sunglasses",
+          "fanny"
+        ],
+        "entries": [
+          { "item": "bodypillow", "custom-flags": [ "auto_wield" ] },
+		  { "item": "katana_plastic", "custom-flags": [ "no_auto_equip" ] },
+          { "item": "colamdew", "container-item": "bottle_twoliter" },
+          { "item": "light_minus_disposable_cell", "ammo-item": "battery", "charges": 100, "container-item": "game_watch" }
+        ]
+      },
+      "female": {
+        "items": [ "boy_shorts", "slippers", "tshirt", "pants", "faux_fur_cat_ears", "bracelet_friendship" ],
+        "entries": [
+          { "item": "mag_animecon", "custom-flags": [ "auto_wield" ] },
+          { "item": "spork", "custom-flags": [ "no_auto_equip" ] }
+        ]
+      }
+    }
+  }
+]

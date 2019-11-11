@@ -1,0 +1,8 @@
+[
+  {
+    "type": "region_overlay",
+    "id": "neckbeard_overlay",
+    "regions": [ "all" ],
+    "city": { "basements": { "basement": 9975, "basement_hidden_lab_stairs": 25, "basement_bionic": 50, "basement_neckbeard": 25 } }
+  }
+]

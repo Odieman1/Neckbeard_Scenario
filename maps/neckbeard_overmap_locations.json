@@ -1,0 +1,12 @@
+[
+  {
+    "type": "overmap_terrain",
+    "id": "basement_neckbeard",
+	"name": "neckbeard basement",
+	"sym": "O",
+	"color": "dark_gray",
+	"see_cost": 5,
+	"mondensity": 0,
+    "flags": [ "NO_ROTATE" ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "katana_plastic",
+    "type": "TOOL",
+    "category": "weapons",
+    "name": "katana",
+    "looks_like": "katana",
+    "description": "This is a cheaply made plastic toy katana.  It would probably make a terrible weapon.",
+    "weight": "250 g",
+    "volume": "2 L",
+    "price": 100,
+    "to_hit": 0,
+    "bashing": 3,
+    "cutting": 1,
+    "material": "plastic",
+    "symbol": "/",
+    "color": "light_gray",
+    "techniques": [ "RAPID" ],
+    "flags": [ "FRAGILE_MELEE", "SHEATH_SWORD", "NONCONDUCTIVE" ]
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "type": "scenario",
+    "ident": "neckbeard_nest",
+    "name": "Mom's Basement",
+    "points": 0,
+    "description": "Here you've lived for all your life.  The power has gone out, and for once, in a few years, you're forced to go upstairs...",
+    "allowed_locs": [ "basement_neckbeard" ],
+    "start_name": "Mom's Basement",
+    "professions": [ "neckbeard" ],
+    "flags": [ "CITY_START", "LONE_START" ]
+  }
+]

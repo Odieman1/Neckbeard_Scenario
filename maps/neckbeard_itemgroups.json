@@ -1,0 +1,53 @@
+[
+  {
+    "id": "neckbeard_garbage",
+    "type": "item_group",
+    "items": [
+      [ "can_drink_unsealed", 75 ],
+      [ "can_drink", 5 ],
+      [ "cola", 7 ],
+      [ "lemonlime", 5 ],
+	  [ "box_small", 30 ],
+      [ "gum", 5 ]
+    ]
+  },
+  {
+    "id": "neckbeard_snacks",
+    "type": "item_group",
+      "items": [
+      [ "chips", 65 ],
+      [ "chocolate", 50 ],
+      [ "jerky", 55 ],
+      [ "cracklins", 25 ],
+      [ "porkstick", 55 ],
+      [ "candy", 80 ],
+      [ "candy2", 80 ],
+      [ "candy3", 80 ],
+      [ "neccowafers", 80 ],
+      [ "cookies", 80 ],
+      [ "nachos", 50 ],
+      [ "chips2", 65 ],
+      [ "chips3", 65 ],
+      [ "popcorn", 25 ]
+    ]
+  },
+  
+  {
+    "id": "neckbeard_magazine",
+    "type": "item_group",
+      "items": [
+      [ "mag_gaming", 50 ],
+	  [ "mag_animecon", 50 ]
+    ]
+  },
+  {
+    "id": "neckbeard_snacks_fridge",
+    "type": "item_group",
+      "items": [
+      [ "can_drink", 75 ],
+      [ "chocolate", 50 ],
+	  [ "energy_drink", 60 ],
+	  [ "creamsoda", 60 ]
+    ]
+  }
+]
